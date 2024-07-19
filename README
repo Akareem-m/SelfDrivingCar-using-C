@@ -1,0 +1,5 @@
+Self driving AI
+
+bins are in build/bin
+
+to install, use cmake and specify sfml directory
